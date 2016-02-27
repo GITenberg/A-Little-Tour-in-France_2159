@@ -1,0 +1,29 @@
+_repo: A-Little-Tour-in-France_2159
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: I am ashamed to begin with saying that Touraine is the garden of France;
+  that remark has long ago lost its bloom. The town of Tours, however, has some thing
+  sweet and bright, which suggests that it is sur- rounded by a land of fruits. It
+  is a very agreeable little city; few towns of its size are more ripe, more complete,
+  or, I should suppose, in better humor with themselves and less disposed to envy
+  the responsibili- ties of bigger places.
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- Description and travel'
+- !lcsh 'James, Henry, 1843-1916 -- Travel -- France'
+title: A Little Tour in France
+url: http://www.gutenberg.org/ebooks/2159
