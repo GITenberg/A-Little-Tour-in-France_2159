@@ -1,5 +1,5 @@
 _repo: A-Little-Tour-in-France_2159
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcc 'DC'
 - !lcsh 'France -- Description and travel'
 - !lcsh 'James, Henry, 1843-1916 -- Travel -- France'
+- GITenberg
 title: A Little Tour in France
 url: http://www.gutenberg.org/ebooks/2159
